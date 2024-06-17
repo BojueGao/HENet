@@ -1,5 +1,5 @@
 # HENet：Highly Efficient RGB-D Salient Object Detection with Adaptive Fusion and Atention Regulation
-* Haoran Gao, Fasheng Wang, Mengyin Wang, Fuming Sun, Haojie Li
+ Haoran Gao, Fasheng Wang, Mengyin Wang, Fuming Sun, Haojie Li
 # Architecture
 
 # Requirements
