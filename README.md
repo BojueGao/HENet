@@ -11,7 +11,7 @@
 # Results
 ## 1.Model Zoo
 |    Name   |    Backbone   | Params | FLOPS |  FPS  | Weight |
-|----------:|---------------|--------|-------|-------|--------|
+|:---------:|:-------------:|:------:|:-----:|:-----:|:------:|
 |  HENet-S  |  MobileViT-S  | 11.9M  | 10.7G | 121.7 |        | 
 | HENet-XXS | MoblieViT-XXS |  2.7M  |  2.2G | 124.1 |        |
 ## 2.Prediction Maps
