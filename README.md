@@ -1,5 +1,5 @@
 # HENet：Highly Efficient RGB-D Salient Object Detection with Adaptive Fusion and Atention Regulation
-Haoran Gao, Fasheng Wang, Mengyin Wang, Fuming Sun, Haojie Li
+* Haoran Gao, Fasheng Wang, Mengyin Wang, Fuming Sun, Haojie Li
 # Architecture
 
 # Requirements
@@ -7,4 +7,5 @@ Haoran Gao, Fasheng Wang, Mengyin Wang, Fuming Sun, Haojie Li
 * pytorch 1.11.0
 * torchvision
 # Saliency maps
+
 # Trained model
