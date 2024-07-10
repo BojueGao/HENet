@@ -12,8 +12,8 @@
 ## 1.Model Zoo
 |    Name   |    Backbone   | Params | FLOPS |  FPS  | Weight |
 |:---------:|:-------------:|:------:|:-----:|:-----:|:------:|
-|  HENet-S  |  MobileViT-S  | 11.9M  | 10.7G | 121.7 |        | 
-| HENet-XXS | MoblieViT-XXS |  2.7M  |  2.2G | 124.1 |        |
+|  HENet-S  |  MobileViT-S  | 11.9M  | 10.7G | 121.7 |[Small_best](https://pan.baidu.com/s/1VqF8Q0d2ChpXSegUwqQ3OA?pwd=jdg6)| 
+| HENet-XXS | MoblieViT-XXS |  2.7M  |  2.2G | 124.1 |[XXSmall_best](https://pan.baidu.com/s/1oHp1ykgtOMOrFd0eqhg64A?pwd=up9x)|
 ## 2.Prediction Maps
  We offer the prediction maps of [HENet-S](https://pan.baidu.com/s/1K5L_-5tAWukZZJu3quFeoA?pwd=pmr3) and [HENet-XXS](https://pan.baidu.com/s/1T7vMk3K3x5wRrn-KTKOxNQ?pwd=41od) at this time.
 # Citation
