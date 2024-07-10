@@ -15,6 +15,6 @@
 |  HENet-S  |  MobileViT-S  | 11.9M  | 10.7G | 121.7 |        | 
 | HENet-XXS | MoblieViT-XXS |  2.7M  |  2.2G | 124.1 |        |
 ## 2.Prediction Maps
- We offer the prediction maps of HENet-S and HENet-XXS at this time.
+ We offer the prediction maps of [HENet-S](https://pan.baidu.com/s/1K5L_-5tAWukZZJu3quFeoA?pwd=pmr3) and [HENet-XXS](https://pan.baidu.com/s/1T7vMk3K3x5wRrn-KTKOxNQ?pwd=41od) at this time.
 # Citation
 * If you have any questions, feel free to [gaohaoran0519@163.com](mailto:gaohaoran0519@163.com).
